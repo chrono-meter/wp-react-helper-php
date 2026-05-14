@@ -1,0 +1,16 @@
+{
+    "name": "chrono-meter/wp-react-helper-php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ChronoMeter\\WpReactHelperPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chrono-meter",
+            "email": "chrono-meter@gmx.net"
+        }
+    ]
+}
